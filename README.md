@@ -1,2 +1,2 @@
 # Image_Processing
-Image Processing - ARTI403 Repository 
+### This repository includes the lab work for image processing course (ARTI 403)
